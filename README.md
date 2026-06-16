@@ -98,7 +98,3 @@ The system includes PDF invoice generation and real-time analytics for better op
 
 Author
 Jasmina Thevasuthan
-
-## 📄 License
-
-This project was developed for educational and portfolio purposes.
